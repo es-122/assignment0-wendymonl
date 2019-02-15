@@ -7,3 +7,5 @@ This is the only file you will edit for this program. In the blank space below, 
 In the blank space below, please write your EID
 
 That's it! Make sure to commit your changes!
+
+EID: wfm427
