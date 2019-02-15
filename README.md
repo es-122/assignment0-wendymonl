@@ -8,4 +8,5 @@ In the blank space below, please write your EID
 
 That's it! Make sure to commit your changes!
 
+Wendy Montano
 EID: wfm427
